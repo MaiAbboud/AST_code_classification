@@ -1,0 +1,15 @@
+conda install pandas -y;
+conda install statsmodels -y;
+conda install scikit-learn -y;
+conda install numpy -y;
+conda install sqlalchemy -y;
+conda install psutil -y;
+conda install matplotlib -y;
+conda install yellowbrick -y;
+conda install joblib -y;
+conda install scipy -y;
+conda install psycopg2 -y;
+conda install openpyxl -y;
+conda install tabulate -y;
+conda install dtreeviz -y;
+pip install yellowbrick;
