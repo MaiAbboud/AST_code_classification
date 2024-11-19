@@ -1,0 +1,6 @@
+2022-06-20 06:54:12,429:INFO: Parameters file found at [experiments/kmeans/base/het5/best_model/params.json].
+2022-06-20 06:54:12,431:INFO: Dataset loaded. Shape: (10371599, 96), (10371599,).
+2022-06-20 06:56:13,664:INFO: OneHot applied. Shape after: (10371599, 673), (10371599,).
+2022-06-20 06:56:13,666:INFO: Option --compute-elbow not present. Using params.json elbow [6].
+2022-06-20 06:56:13,666:INFO: Creating model.
+2022-06-20 06:56:13,668:INFO: Starting training.

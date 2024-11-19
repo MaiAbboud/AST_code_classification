@@ -1,0 +1,18 @@
+{
+    "C": 100,
+    "l1_ratio": 0.01,
+    "accuracy": 0.9194513201320133,
+    "recall": 0.9088966754978207,
+    "precision": 0.955439762824544,
+    "f1": 0.9315872459705676,
+    "weights": {
+        "type_def__visibility": 1.535902738571167,
+        "type_def__is_final": 21.513822555541992,
+        "type_def__is_extension": -2.7631356716156006,
+        "type_def__number_of_annotations": 54.811946868896484,
+        "type_def__is_in_default_package": -4.775144577026367,
+        "type_def__number_of_implements": 188.0003204345703,
+        "type_def__number_of_generics": 2.9449281692504883,
+        "type_def__number_of_methods": 4.8932085037231445
+    }
+}
